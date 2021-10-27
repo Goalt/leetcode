@@ -1,6 +1,6 @@
 package main
 
-import solution "leetcode/solution_1544"
+import solution "leetcode/solution_75"
 
 func main() {
 	solution.Solution()
